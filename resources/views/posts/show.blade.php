@@ -2,7 +2,7 @@
 
 
     <x-slot name="title">
-        {{ $post->title }} - My BBS
+        {{ $post->title }} - My Todo
     </x-slot>
 
     <div class="back-link">
